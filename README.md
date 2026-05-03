@@ -4,6 +4,8 @@
 
 ---
 
+Assets used are sourced from free asset websites and are used for educational, non-commercial purposes only.
+
 ## 🎮 Gameplay Overview
 
 Rather than reading about machine learning, players *experience* it:
